@@ -24,6 +24,8 @@ This project is a simple prototype that generates a basic 3D model of a toy car 
 
 - `toy_car.obj`: Exported 3D model.
 - `toy_car_screenshot.png`: Rendered screenshot of the toy car mesh.
+- `chair.obj`: A simple plastic chair generated from geometric primitives.
+- chair_screenshot.png :Rendered screenshot of the plastic chair mesh.
 
 4. Thought Process
 
@@ -36,9 +38,10 @@ This prototype demonstrates converting a simple input prompt ("car") into a 3D s
 
 ![Toy Car](toy_car_screenshot.png)
 
-`chair.obj`: A simple plastic chair generated from geometric primitives.
+Plastic Chair
+![Chair Model](chair_screenshot.png)
 
-[Download chair.obj](chair.obj)
+- `chair.obj`: A simple plastic chair generated from geometric primitives.
 
 
 
