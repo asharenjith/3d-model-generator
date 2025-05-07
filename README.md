@@ -36,6 +36,10 @@ This prototype demonstrates converting a simple input prompt ("car") into a 3D s
 
 ![Toy Car](toy_car_screenshot.png)
 
+`chair.obj`: A simple plastic chair generated from geometric primitives.
+
+[Download chair.obj](chair.obj)
+
 
 
 
