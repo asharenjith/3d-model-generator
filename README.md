@@ -23,7 +23,7 @@ This project is a simple prototype that generates a basic 3D model of a toy car 
 3. Output
 
 - `toy_car.obj`: Exported 3D model.
-- `toy_car_screenshot (1).png`: Rendered screenshot of the toy car mesh.
+- `toy_car_screenshot.png`: Rendered screenshot of the toy car mesh.
 
 4. Thought Process
 
@@ -34,7 +34,8 @@ This prototype demonstrates converting a simple input prompt ("car") into a 3D s
 
 5. Screenshot
 
-![Toy Car](toy_car_screenshot%20(1).png)
+![Toy Car](toy_car_screenshot.png)
+
 
 
 
